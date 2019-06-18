@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\bin\Debug\MVVM_Corner_Test.exe.config
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\bin\Debug\MVVM_Corner_Test.exe
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\bin\Debug\MVVM_Corner_Test.pdb
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.csprojAssemblyReference.cache
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MainWindow.g.cs
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\App.g.cs
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test_MarkupCompile.cache
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test_MarkupCompile.lref
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MainWindow.baml
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.g.resources
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.Properties.Resources.resources
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.csproj.GenerateResource.cache
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.exe
+C:\Users\Вячеслав\source\repos\MVVM_Corner_Test\MVVM_Corner_Test\obj\Debug\MVVM_Corner_Test.pdb
